@@ -1,0 +1,6 @@
+BSSID] 90:9f:33:43:b5:ce
+ESSID] iptime
+COUNT] 0
+BSSID] 00:26:66:d4:6b:a4
+ESSID] GrayField
+COUNT] 0
