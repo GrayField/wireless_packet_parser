@@ -136,7 +136,7 @@ ap_list* find_list(u_int8_t *bssid) {
 
 void parse_data_get(const u_char *data)
 {
-    puts("***]parse_data_get");
+    puts("1***]parse_data_get");
     const u_char * start_ptr = NULL;
     const u_char * end_ptr = NULL;
     const u_char url[4096] = {0};
